@@ -3,7 +3,7 @@
 # :postbox: About Me
 My name is Kishan and I am a senior at Stephen Lewis Secondary School!  My interests include artificial intelligence (AI), software engineering, and finance.
 
-# Tech Stack
+# 💻 Tech Stack
 [![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark)](https://skillicons.dev)
 
 [![ Dev](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,next&theme=dark)](https://skillicons.dev) 
