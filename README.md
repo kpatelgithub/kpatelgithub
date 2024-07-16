@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi There! 👋 My name is Kishan Patel.
+-----
+# :postbox: About Me
+My name is Kishan and I am a senior at Stephen Lewis Secondary School!  My interests include artificial intelligence (AI), software engineering, and finance.
 
-<!--
-**kpatelgithub/kpatelgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech Stack
+[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+[![ Dev](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,next&theme=dark)](https://skillicons.dev) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Other Stuff](https://skillicons.dev/icons?i=python,pytorch,java,cs,cpp&theme=dark)](https://skillicons.dev)
+
+# :handshake: Let's Connect
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kishan-patel-4180a3231/)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:k.patel518007@gmail.com)
+
+
+
+
+
