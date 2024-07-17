@@ -1,4 +1,4 @@
-### Hi There! 👋 My name is Kishan Patel.
+### Hi There! 👋 I'm Kishan Patel.
 -----
 # :postbox: About Me
 My name is Kishan and I am a senior at Stephen Lewis Secondary School!  My interests include artificial intelligence (AI), software engineering, and finance.
