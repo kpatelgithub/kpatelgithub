@@ -11,7 +11,7 @@ My name is Kishan and I am a senior at Stephen Lewis Secondary School!  My inter
 [![Other Stuff](https://skillicons.dev/icons?i=python,pytorch,java,cs,cpp&theme=dark)](https://skillicons.dev)
 
 # :handshake: Let's Connect
-[![My LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kishan-patel-4180a3231/)
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kpatelswe/)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:k.patel518007@gmail.com)
 
 
